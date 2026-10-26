@@ -1,0 +1,1 @@
+# Rethinking-On-Policy-Distillation-for-Generative-Recommendation
