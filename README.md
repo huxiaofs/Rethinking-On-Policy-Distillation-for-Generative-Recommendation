@@ -140,5 +140,6 @@ See `docs/METHOD.md` for the implementation mapping and
 
 ## License
 
-The code in this repository is released under the MIT License. GRID is fetched
-separately and remains under its upstream non-commercial research license.
+The code in this repository is released under the Apache License 2.0. GRID is
+fetched separately and remains under its upstream non-commercial research
+license.
