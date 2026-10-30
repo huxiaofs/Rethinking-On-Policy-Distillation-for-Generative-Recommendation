@@ -140,6 +140,5 @@ See `docs/METHOD.md` for the implementation mapping and
 
 ## License
 
-The top-level license is pending the project owner's final license-family
-selection; see `LICENSE_SELECTION_REQUIRED.md`. GRID is fetched separately and
-remains under its upstream non-commercial research license.
+The code in this repository is released under the MIT License. GRID is fetched
+separately and remains under its upstream non-commercial research license.
