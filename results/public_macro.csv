@@ -1,0 +1,5 @@
+method,macro_r5_mean,macro_r5_sd,macro_r10_mean,macro_r10_sd
+reverse_kl,5.341,0.153,7.792,0.060
+reverse_kl_target_anchor,5.573,0.119,8.130,0.111
+forward_kl,5.641,0.082,8.219,0.179
+forward_kl_target_anchor,5.661,0.036,8.312,0.101

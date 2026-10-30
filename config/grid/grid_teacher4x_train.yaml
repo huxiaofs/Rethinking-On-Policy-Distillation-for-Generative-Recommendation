@@ -1,0 +1,20 @@
+# @package _global_
+defaults:
+  - tiger_train_flat
+  - _self_
+
+# Width-scaled GRID teacher. Encoder/decoder depth, tokenizer, SID hierarchy,
+# objective, and data pipeline stay identical to the official GRID student.
+model:
+  huggingface_model:
+    config:
+      d_model: 256
+      d_ff: 2048
+      num_heads: 8
+      d_kv: 64
+  decoder:
+    config:
+      d_model: 256
+      d_ff: 2048
+      num_heads: 8
+      d_kv: 64

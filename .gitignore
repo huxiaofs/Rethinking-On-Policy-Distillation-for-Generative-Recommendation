@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+.venv/
+.idea/
+.vscode/
+.DS_Store
+
+# Downloaded dependencies and experiment artifacts
+third_party/GRID/
+data/
+output/
+logs/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Local machine configuration
+config/local.env
